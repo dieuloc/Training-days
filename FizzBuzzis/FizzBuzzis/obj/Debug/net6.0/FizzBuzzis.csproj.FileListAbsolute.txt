@@ -1,0 +1,15 @@
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\FizzBuzzis.exe
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\FizzBuzzis.deps.json
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\FizzBuzzis.runtimeconfig.json
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\FizzBuzzis.dll
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\ref\FizzBuzzis.dll
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\bin\Debug\net6.0\FizzBuzzis.pdb
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.csproj.AssemblyReference.cache
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.AssemblyInfoInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.AssemblyInfo.cs
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.csproj.CoreCompileInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.dll
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\ref\FizzBuzzis.dll
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.pdb
+C:\Users\locda\Documents\GitHub\Training-days\FizzBuzzis\FizzBuzzis\obj\Debug\net6.0\FizzBuzzis.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\IncrementCounting.exe
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\IncrementCounting.deps.json
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\IncrementCounting.runtimeconfig.json
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\IncrementCounting.dll
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\ref\IncrementCounting.dll
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\bin\Debug\net6.0\IncrementCounting.pdb
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.csproj.AssemblyReference.cache
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.AssemblyInfoInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.AssemblyInfo.cs
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.csproj.CoreCompileInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.dll
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\ref\IncrementCounting.dll
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.pdb
+C:\Users\locda\Documents\GitHub\Training-days\IncrementCounting\IncrementCounting\obj\Debug\net6.0\IncrementCounting.genruntimeconfig.cache

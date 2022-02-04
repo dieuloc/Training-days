@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3352da43-a3a2-4fb0-a8ff-6784c2e1ccf8": {
+      "ProjectGuid": "3352da43-a3a2-4fb0-a8ff-6784c2e1ccf8",
+      "DisplayName": "IncrementCounting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

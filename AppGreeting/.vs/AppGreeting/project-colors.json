@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6c5bffb-b3ce-425d-81c7-f02f8aa84a48": {
+      "ProjectGuid": "f6c5bffb-b3ce-425d-81c7-f02f8aa84a48",
+      "DisplayName": "AppGreeting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

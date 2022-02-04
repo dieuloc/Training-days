@@ -1,0 +1,15 @@
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.csproj.AssemblyReference.cache
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.AssemblyInfoInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.AssemblyInfo.cs
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.csproj.CoreCompileInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\AppGreeting.exe
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\AppGreeting.deps.json
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\AppGreeting.runtimeconfig.json
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\AppGreeting.dll
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\ref\AppGreeting.dll
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\bin\Debug\net6.0\AppGreeting.pdb
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.dll
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\ref\AppGreeting.dll
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.pdb
+C:\Users\locda\Documents\GitHub\Training-days\AppGreeting\AppGreeting\obj\Debug\net6.0\AppGreeting.genruntimeconfig.cache
