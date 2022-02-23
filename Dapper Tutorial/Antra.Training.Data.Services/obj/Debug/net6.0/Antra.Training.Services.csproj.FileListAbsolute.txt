@@ -1,0 +1,17 @@
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Services.deps.json
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Services.dll
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Services.pdb
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Entity.dll
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Repository.dll
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Repository.pdb
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Entity.pdb
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.csproj.AssemblyReference.cache
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.AssemblyInfoInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.AssemblyInfo.cs
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.csproj.CoreCompileInputs.cache
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.csproj.CopyComplete
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.dll
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\refint\Antra.Training.Services.dll
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Services.pdb
+C:\Users\locda\Documents\GitHub\Training-days\Dapper Tutorial\Antra.Training.Data.Services\obj\Debug\net6.0\ref\Antra.Training.Services.dll
